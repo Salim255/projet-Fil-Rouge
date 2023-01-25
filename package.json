@@ -1,0 +1,19 @@
+{
+  "name": "projet-fil-rouge",
+  "version": "1.0.0",
+  "description": "## 1/ Intégration de Github pour gérer les versions du code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salim255/projet-Fil-Rouge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salim255/projet-Fil-Rouge/issues"
+  },
+  "homepage": "https://github.com/Salim255/projet-Fil-Rouge#readme"
+}
