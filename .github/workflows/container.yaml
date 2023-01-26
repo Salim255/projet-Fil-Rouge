@@ -9,6 +9,3 @@ jobs:
         image: crawan/filrougeserversalim:2
         ports:
           - 9000:9000
-    steps:
-      - name: get to page
-        run: http://localhost:9000

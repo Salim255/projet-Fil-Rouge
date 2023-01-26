@@ -9,7 +9,7 @@ app.set("view engine", "ejs");
 const PORT = 9000;
 
 app.get("/", (req, res) => {
-  res.render("index");
+  res.send("Hello world");
 });
 
 app.listen(PORT, () => {
