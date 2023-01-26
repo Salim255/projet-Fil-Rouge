@@ -1,6 +1,8 @@
 name: shell  Commands,
 
-on: [push]
+on:
+  push:
+    branches: [deploy]
 jobs:
   run-shell-commands:
     runs-on: ubuntu-latest
