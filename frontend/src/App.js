@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Mise en place d'une CI-CD pour son projet Fil Rouge
         </a>
       </header>
     </div>
