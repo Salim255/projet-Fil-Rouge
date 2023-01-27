@@ -2,10 +2,10 @@
 # For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 
 name: CI CD test
-
-on:
-  push:
-    branches: [master]
+on: [push]
+#
+#push:
+#gitbranches: [master]
 
 jobs:
   build:
