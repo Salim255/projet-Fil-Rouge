@@ -1,23 +1,14 @@
 {
-  "name": "projet-fil-rouge",
+  "name": "docker-simple-node",
   "version": "1.0.0",
-  "description": "## 1/ Intégration de Github pour gérer les versions du code",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Salim255/projet-Fil-Rouge.git"
-  },
-  "author": "",
+  "author": "Maximilian Schwarzmüller / Academind GmbH",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Salim255/projet-Fil-Rouge/issues"
-  },
-  "homepage": "https://github.com/Salim255/projet-Fil-Rouge#readme",
   "dependencies": {
-    "ejs": "^3.1.8",
-    "express": "^4.18.2"
+    "express": "^4.17.1"
   }
 }
