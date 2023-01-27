@@ -6,7 +6,7 @@ const path = require("path");
 app.set("views", path.resolve(__dirname, "src/views"));
 app.set("view engine", "ejs");
 
-const PORT = 9000;
+const PORT = 80;
 
 app.get("/", (req, res) => {
   res.render("index");
